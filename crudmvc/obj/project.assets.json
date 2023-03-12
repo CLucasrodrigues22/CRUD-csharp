@@ -3230,11 +3230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cluca\\source\\repos\\crudmvc\\crudmvc\\crudmvc.csproj",
+      "projectUniqueName": "C:\\Users\\cluca\\source\\repos\\CRUD-csharp\\crudmvc\\crudmvc.csproj",
       "projectName": "crudmvc",
-      "projectPath": "C:\\Users\\cluca\\source\\repos\\crudmvc\\crudmvc\\crudmvc.csproj",
+      "projectPath": "C:\\Users\\cluca\\source\\repos\\CRUD-csharp\\crudmvc\\crudmvc.csproj",
       "packagesPath": "C:\\Users\\cluca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cluca\\source\\repos\\crudmvc\\crudmvc\\obj\\",
+      "outputPath": "C:\\Users\\cluca\\source\\repos\\CRUD-csharp\\crudmvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

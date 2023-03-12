@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<Contexto>
-        (options => options.UseSqlServer("Server=localhost;Database=master;Trusted_Connection=True;"));
+        (options => options.UseSqlServer("Data Source=COLOSSUS;Initial Catalog=Profissionais;Integrated Security=SSPI;Persist Security Info=False;"));
 
 var app = builder.Build();
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+L0hhgJ07qnSzDMGbiIdxM1Eb8npJdA+RMMYr+H0bCcvTChsjkhl9EF2/rEg2Tf25+arkFF5NqBnJS0azKmK+A==",
+  "dgSpecHash": "ajtJz98nq9Z1auq6tCEYCVxtUeGzz5nLSZoF7LTu8lhv6Zb9bcJsBJGNTDHiGyY0rymKzR+DOUJM9BWAz3ubTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cluca\\source\\repos\\crudmvc\\crudmvc\\crudmvc.csproj",
+  "projectFilePath": "C:\\Users\\cluca\\source\\repos\\CRUD-csharp\\crudmvc\\crudmvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cluca\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cluca\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
